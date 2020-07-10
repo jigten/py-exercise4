@@ -4,4 +4,8 @@ This repository is part of the test challenges for Python set forth by Manatal. 
 
 ### Instructions
 '''
+- Clone repository
+- Run pipenv install
+- Run python twitter_followers.py
+- Supply url to Twitter account
 '''
